@@ -83,9 +83,6 @@ jobs:
               --without-notes
           done
 
-      - name: Build Homepage
-        shell: bash
-        run: |
           cat > dist/index.html <<'HTML'
           <!DOCTYPE html>
           <html lang="en">

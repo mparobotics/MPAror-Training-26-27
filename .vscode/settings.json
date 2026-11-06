@@ -57,5 +57,11 @@
     "edu.wpi.first.math.**.proto.*",
     "edu.wpi.first.math.**.struct.*",
   ],
-  "java.dependency.enableDependencyCheckup": false
+  "java.dependency.enableDependencyCheckup": false,
+  "slidev.include": [
+    "**/slides.md",
+    "Slides/Java.md",
+    "Slides/Setting Up.md",
+    "Slides/WPIlib.md"
+  ]
 }

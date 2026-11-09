@@ -2,7 +2,7 @@
 theme: ./theme
 title: Intro to Java
 layout: title
-author: Gavin N. P.
+author: MPArors 3926
 ---
 
 # Setting Up Software

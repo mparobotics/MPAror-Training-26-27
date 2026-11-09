@@ -22,3 +22,14 @@ class: compact
 ---
 
 # Github
+
+- https://github.com/
+
+1. Sign up for an account
+2. Ask a coach or mentor to add you to the MPArors organization
+
+- https://desktop.github.com/download/
+
+1. Download the app
+
+Also check out this if you are really interested in software development https://education.github.com/pack
